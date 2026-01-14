@@ -1,0 +1,14 @@
+{
+	"appId": "com.tarihtebugun.app",
+	"appName": "Tarihte Bugün",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"android": {
+		"backgroundColor": "#1a2f23",
+		"allowMixedContent": true,
+		"captureInput": true
+	},
+	"server": {
+		"androidScheme": "https"
+	}
+}
